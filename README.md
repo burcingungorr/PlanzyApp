@@ -1,97 +1,112 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 📅 Planzy – Etkinlik Oluşturma, Katılım ve Sosyal Etkileşim Uygulaması
 
-# Getting Started
+**Planzy**, kullanıcıların etkinlik oluşturup katılabileceği, yorum yapabileceği ve etkinliklerin harita üzerinde gösterileceği kapsamlı bir sosyal etkinlik uygulamasıdır.  
+Topluluk etkileşimini artırmak için arkadaş ekleme, bildirimler ve gelişmiş filtreleme özellikleri içerir.
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+---
 
-## Step 1: Start Metro
+## 📱 Temel Özellikler
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+- 📝 **Etkinlik Oluşturma, Listeleme ve Detay Görüntüleme**  
+- 👥 **Kullanıcı Katılım Durumu** (Gideceğim / Gitmeyeceğim)  
+- 🗺️ **Harita Entegrasyonu**  
+  - Etkinliklerin harita üzerinde gösterimi  
+- 🔄 **Etkinlik CRUD** (Oluşturma, Düzenleme, Silme)  
+- 👫 **Kullanıcı Katılım Sistemi**  
+- 💬 **Yorum ve Bildirim Yönetimi**  
+- 🔐 **Kullanıcı Girişi ve Kayıt Sistemi**  
+- 📂 **Veritabanında Etkinlik, Katılım ve Yorumların Tutulması**  
+- 🔔 **Yeni Etkinlikler İçin Kullanıcılara Bildirim Gönderimi**  
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+---
 
-```sh
-# Using npm
-npm start
+## 🌟 Gelişmiş Özellikler
 
-# OR using Yarn
-yarn start
-```
+- 🔹 **Etkinlik Türleri ve Filtreleme**  
+  - Spor, kültür, doğa, kahve gibi kategorilere göre liste ve harita filtreleme  
 
-## Step 2: Build and run your app
+- 🔹 **Arkadaş Ekleme ve Takip Sistemi**  
+  - Arkadaşların katıldığı etkinliklerin ayrı listelenmesi  
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+- 🔹 **Katılım Limiti ve Kayıt Kapatma**  
+  - Maksimum katılımcı sayısı belirlenebilir, dolunca kayıt kapanır  
 
-### Android
+- 🔹 **Yorumlara Cevap ve Beğeni**  
+  - Yorumlara cevap yazılabilir, beğeni bırakılabilir  
+  - Toplam yorum ve beğeni sayıları gösterilir  
+  - Etkinlik medyaları (fotoğraf ve video) görüntülenir  
 
-```sh
-# Using npm
-npm run android
+- 🔹 **Etkinlik Geri Bildirim Anketi**  
+  - 1-5 yıldız değerlendirme ve yorum alanı  
+  - Etkinlik kalitesine göre sıralama (En iyi etkinlikler bölümü)  
 
-# OR using Yarn
-yarn android
-```
+- 🔹 **Etkinlik Hatırlatma Bildirimi**  
+  - Katılım onayı alan kullanıcılara, etkinlikten 1 saat önce otomatik bildirim  
 
-### iOS
+- 🔹 **Etkinlik Haritası ve Harici Navigasyon Yönlendirmesi**  
+  - Etkinlik haritası üzerinden navigasyon uygulamasına yönlendirme  
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
+---
 
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+## 🛠️ Kullanılan Teknolojiler
 
-```sh
-bundle install
-```
+- **React Native** – Mobil uygulama geliştirme  
+- **Firebase** – Firestore, Authentication, Storage  
+- **Node.js** – Backend ve API yönetimi  
 
-Then, and every time you update your native dependencies, run:
+---
 
-```sh
-bundle exec pod install
-```
+## 🎯 Amaç
 
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
+Topluluk üyelerinin etkinlikler oluşturup, katılarak ve etkileşimde bulunarak sosyal bağlarını güçlendirmelerini sağlamak, yaşamı daha aktif ve paylaşılır kılmak.
 
-```sh
-# Using npm
-npm run ios
+---
 
-# OR using Yarn
-yarn ios
-```
+## 📸 Uygulama Görselleri
 
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
+<div align="center"> 
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144338" src="https://github.com/user-attachments/assets/bdab2469-dce1-4573-b47d-24563b1ea1a6" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144346" src="https://github.com/user-attachments/assets/9ca4e73f-11d8-49bf-a9f3-df8f0786378e" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144419" src="https://github.com/user-attachments/assets/9f649703-ebb5-4213-bcde-f52432022c7d" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144445" src="https://github.com/user-attachments/assets/7f4382a7-d729-4e9f-8429-9be9228267c4" />
+" width="130" />
+</div>
 
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
+<div align="center">
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144455" src="https://github.com/user-attachments/assets/809a24ce-7b3b-4c8e-88d6-e5d8542aa684" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144509" src="https://github.com/user-attachments/assets/e6cd373f-6058-4530-9db1-d900c90c153f" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144430" src="https://github.com/user-attachments/assets/55b9be60-5512-49d4-bd6e-775eed42dddf" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-152833" src="https://github.com/user-attachments/assets/841eb1a4-c89e-4a3a-bfc0-f313fc4ae570" />
+" width="130" />
+</div>
 
-## Step 3: Modify your app
 
-Now that you have successfully run the app, let's make changes!
+<div align="center">
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144533" src="https://github.com/user-attachments/assets/eb8291aa-f31a-43de-a02e-4cf9274aa009" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144519" src="https://github.com/user-attachments/assets/5ace0e1f-ff87-4f69-83d7-719f7e04ad78" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144526" src="https://github.com/user-attachments/assets/ac86108d-d40b-4ca5-b27d-48c15991b75f" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144540" src="https://github.com/user-attachments/assets/e63f4a3e-e4cc-4c75-a361-d60d26570fb2" />
+" width="130" />
+</div>
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
 
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
-
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+<div align="center">
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-150447" src="https://github.com/user-attachments/assets/7908129c-973d-4c6f-becd-23a7c2a75c75" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250802-211524" src="https://github.com/user-attachments/assets/21dc982e-156a-4543-b01e-600f1d698863" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250725-213052" src="https://github.com/user-attachments/assets/eb1b2cb8-fecd-4b4b-a9f6-30d579d22202" />
+" width="130" />
+  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250725-191540" src="https://github.com/user-attachments/assets/948998a9-dce9-4fb7-8f0e-e8020e446161" />
+" width="130" />
+</div>
+---
