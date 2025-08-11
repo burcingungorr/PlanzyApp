@@ -63,50 +63,32 @@ Topluluk üyelerinin etkinlikler oluşturup, katılarak ve etkileşimde bulunara
 ---
 
 ## 📸 Uygulama Görselleri
-
 <div align="center"> 
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144338" src="https://github.com/user-attachments/assets/bdab2469-dce1-4573-b47d-24563b1ea1a6" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144346" src="https://github.com/user-attachments/assets/9ca4e73f-11d8-49bf-a9f3-df8f0786378e" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144419" src="https://github.com/user-attachments/assets/9f649703-ebb5-4213-bcde-f52432022c7d" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144445" src="https://github.com/user-attachments/assets/7f4382a7-d729-4e9f-8429-9be9228267c4" />
-" width="130" />
+  <img src="https://github.com/user-attachments/assets/bdab2469-dce1-4573-b47d-24563b1ea1a6" width="130" />
+  <img src="https://github.com/user-attachments/assets/9ca4e73f-11d8-49bf-a9f3-df8f0786378e" width="130" />
+  <img src="https://github.com/user-attachments/assets/9f649703-ebb5-4213-bcde-f52432022c7d" width="130" />
+  <img src="https://github.com/user-attachments/assets/7f4382a7-d729-4e9f-8429-9be9228267c4" width="130" />
 </div>
 
 <div align="center">
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144455" src="https://github.com/user-attachments/assets/809a24ce-7b3b-4c8e-88d6-e5d8542aa684" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144509" src="https://github.com/user-attachments/assets/e6cd373f-6058-4530-9db1-d900c90c153f" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144430" src="https://github.com/user-attachments/assets/55b9be60-5512-49d4-bd6e-775eed42dddf" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-152833" src="https://github.com/user-attachments/assets/841eb1a4-c89e-4a3a-bfc0-f313fc4ae570" />
-" width="130" />
+  <img src="https://github.com/user-attachments/assets/809a24ce-7b3b-4c8e-88d6-e5d8542aa684" width="130" />
+  <img src="https://github.com/user-attachments/assets/e6cd373f-6058-4530-9db1-d900c90c153f" width="130" />
+  <img src="https://github.com/user-attachments/assets/55b9be60-5512-49d4-bd6e-775eed42dddf" width="130" />
+  <img src="https://github.com/user-attachments/assets/841eb1a4-c89e-4a3a-bfc0-f313fc4ae570" width="130" />
 </div>
-
 
 <div align="center">
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144533" src="https://github.com/user-attachments/assets/eb8291aa-f31a-43de-a02e-4cf9274aa009" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144519" src="https://github.com/user-attachments/assets/5ace0e1f-ff87-4f69-83d7-719f7e04ad78" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144526" src="https://github.com/user-attachments/assets/ac86108d-d40b-4ca5-b27d-48c15991b75f" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-144540" src="https://github.com/user-attachments/assets/e63f4a3e-e4cc-4c75-a361-d60d26570fb2" />
-" width="130" />
+  <img src="https://github.com/user-attachments/assets/eb8291aa-f31a-43de-a02e-4cf9274aa009" width="130" />
+  <img src="https://github.com/user-attachments/assets/5ace0e1f-ff87-4f69-83d7-719f7e04ad78" width="130" />
+  <img src="https://github.com/user-attachments/assets/ac86108d-d40b-4ca5-b27d-48c15991b75f" width="130" />
+  <img src="https://github.com/user-attachments/assets/e63f4a3e-e4cc-4c75-a361-d60d26570fb2" width="130" />
 </div>
-
 
 <div align="center">
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250803-150447" src="https://github.com/user-attachments/assets/7908129c-973d-4c6f-becd-23a7c2a75c75" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250802-211524" src="https://github.com/user-attachments/assets/21dc982e-156a-4543-b01e-600f1d698863" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250725-213052" src="https://github.com/user-attachments/assets/eb1b2cb8-fecd-4b4b-a9f6-30d579d22202" />
-" width="130" />
-  <img src="<img width="720" height="1600" alt="Ekran görüntüleri_20250725-191540" src="https://github.com/user-attachments/assets/948998a9-dce9-4fb7-8f0e-e8020e446161" />
-" width="130" />
+  <img src="https://github.com/user-attachments/assets/7908129c-973d-4c6f-becd-23a7c2a75c75" width="130" />
+  <img src="https://github.com/user-attachments/assets/21dc982e-156a-4543-b01e-600f1d698863" width="130" />
+  <img src="https://github.com/user-attachments/assets/eb1b2cb8-fecd-4b4b-a9f6-30d579d22202" width="130" />
+  <img src="https://github.com/user-attachments/assets/948998a9-dce9-4fb7-8f0e-e8020e446161" width="130" />
 </div>
+
 ---
