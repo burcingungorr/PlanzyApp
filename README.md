@@ -51,7 +51,7 @@ Topluluk etkileşimini artırmak için arkadaş ekleme, bildirimler ve gelişmi�
 ## 🛠️ Kullanılan Teknolojiler
 
 - **React Native** – Mobil uygulama geliştirme  
-- **Firebase** – Firestore, Authentication, Storage  
+- **Firebase** – Firestore, Authentication  
 - **Node.js** – Backend ve API yönetimi  
 
 ---
